@@ -1,1 +1,1 @@
-// addiingg a good component
+// addiingg a good component.
